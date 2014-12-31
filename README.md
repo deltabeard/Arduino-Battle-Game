@@ -7,4 +7,4 @@ Current Status
 ==============
 
 10% Done. <br>
-Development slow - weekly changes at best.
+Development halted.
